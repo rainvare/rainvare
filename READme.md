@@ -7,7 +7,7 @@
 
 Welcome to my Github page! My name is Indira Requiz. 
 <br/>
-I am a linguist, a junior developer, a specialist in literature and Korean studies.
+I am a junior developer, a linguist, a specialist in literature and Korean studies.
 <br/>
 
 <img align="right" alt="img" src="https://github.com/rainvare/CTDDigitalHouse/blob/main/img/perfil.png" width="50%" height="auto" />
