@@ -42,10 +42,11 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 ### 🌴 Fun facts
 - I blog. About literature, code and stuff. <br/>
 [Estudios coreanos](https://literaturacoreana.wordpress.com/)
-<br/>
 [Rainvare](https://rainvare.wordpress.com/)
-</p>
-- I will speak English, Portuguese, French, Italian, some German. And a little Arabic, Chinese and Korean
+<br/>
+- I speak English, Portuguese, French, Italian, some German. And a little Arabic, Chinese and Korean.
+- I love knitting
+
 
 ### ☕ Get in touch
 - ⭐️[Website](https://rainvare.github.io/portfolio/)
