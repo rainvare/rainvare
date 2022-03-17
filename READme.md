@@ -5,9 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/indiravalentinarequiz/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:indirarequiz@gmail.com)
 
-Welcome to my Github page! My name is Indira Requiz. I have a degree in Literature.
-I am a linguist, a specialist in Korean studies and a junior developer.
-
+Welcome to my Github page! My name is Indira Requiz. 
+<br/>
+I am a linguist, a junior developer, a specialist in literature and Korean studies.
+<br/>
 
 <img align="right" alt="img" src="https://github.com/rainvare/CTDDigitalHouse/blob/main/img/perfil.png" width="50%" height="auto" />
 
