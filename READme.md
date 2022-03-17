@@ -30,7 +30,7 @@ I am a linguist, a junior developer, a specialist in literature and Korean studi
 
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></code>
+<code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></code>
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
