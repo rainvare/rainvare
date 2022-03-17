@@ -10,7 +10,7 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 
 ### 📖 What am currently learning
 - The Certified Tech Developer career at Digital House with a scholarship from Mercado Libre and Globant * Progress 30% *
-- Big Data training program of the city of Buenos Aires, Codo a Codo. * Progress 25 % *
+- Big Data training program Codo a Codo, Buenos Aires. * Progress 25 % *
 - AI & Machine Learning  * Progress 50% *
 
 ### 💻 What am currently working on
@@ -24,7 +24,7 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rainvare&show_icons=true&hide_border=true" />
+	<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=rainvare&show_icons=true&hide_border=true" />
 
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
@@ -40,13 +40,11 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 </p>
 
 ### 🌴 Fun facts
-- I blog. About literature, code and stuff. <br/>
+- I blog. About literature, code and stuff
 [Estudios coreanos](https://literaturacoreana.wordpress.com/)
 [Rainvare](https://rainvare.wordpress.com/)
-<br/>
 - I speak English, Portuguese, French, Italian, some German. And a little Arabic, Chinese and Korean.
 - I love knitting
-
 
 ### ☕ Get in touch
 - ⭐️[Website](https://rainvare.github.io/portfolio/)
