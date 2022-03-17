@@ -1,22 +1,22 @@
 ### Hi there 👋 
+Welcome to my Github page!  
+
 ### This is R. Indira Valentina Réquiz!
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rainvare)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/indiravalentinarequiz/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:indirarequiz@gmail.com)
-
-Welcome to my Github page! My name is Indira Requiz. 
+Welcome to my Github page!  
 <br/>
+## 🧐 About me
 I am a junior developer, a linguist, a specialist in literature and Korean Studies.
 <br/>
 
-<img align="right" alt="img" src="https://github.com/rainvare/CTDDigitalHouse/blob/main/img/perfil.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/rainvare/CTDDigitalHouse/blob/main/img/perfil.png" width="30%" height="auto" />
 
+### 📖 What am currently learning
+- The Certified Tech Developer career at Digital House with a scholarship from Mercado Libre and Globant * Progress 30% *
+- Big Data training program of the city of Buenos Aires, Codo a Codo. * Progress 25 % *
+- AI & Machine Learning  * Progress 50% *
 
-#### 🌱 Things I am currently working on: 
-- Studying the Certified Tech Developer career at Digital House with a scholarship from Mercado Libre and Globant
-- Studing in the Big Data training program of the city of Buenos Aires, Codo a Codo. 
-- Developing a digitization project for Venezuelan culture  -  🚀 *coming soon*
+### 💻 What am currently working on
+- Digitization project for Venezuelan culture  -  🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -41,9 +41,20 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 <code><img width="10%" src="https://www.soutechventures.com/wp-content/uploads/2018/07/ibm-spss-training-in-abuja-lagos-nigeria.png"></code>
 </p>
 
-<p>Blogs: 
+### 🌴 Fun facts
+
+- I blog. About literature, code and stuff. 
 <br/>
 [Estudios coreanos](https://literaturacoreana.wordpress.com/)
 <br/>
 [Rainvare](https://rainvare.wordpress.com/)
 </p>
+<br/>
+- I will speak English, Portuguese, French, Italian, some German. And a little Arabic, Chinese and Korean
+
+### ☕ Get in touch
+[![Website](https://rainvare.github.io/portfolio/)
+[![Linkedin](https://www.linkedin.com/in/indiravalentinarequiz/)
+[![Twitter](https://twitter.com/rainvare)
+[![Instagram](https://instagram.com/indirarequiz)
+[![Gmail](mailto:indirarequiz@gmail.com)
