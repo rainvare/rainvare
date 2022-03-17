@@ -41,8 +41,8 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 
 ### 🌴 Fun facts
 - I blog. About literature, code and stuff
-[Estudios coreanos](https://literaturacoreana.wordpress.com/)
-[Rainvare](https://rainvare.wordpress.com/)
+⭐️[Estudios coreanos](https://literaturacoreana.wordpress.com/)
+⭐️[Rainvare](https://rainvare.wordpress.com/)
 - I speak English, Portuguese, French, Italian, some German. And a little Arabic, Chinese and Korean.
 - I love knitting
 
