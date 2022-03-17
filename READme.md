@@ -40,19 +40,16 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 </p>
 
 ### 🌴 Fun facts
-
 - I blog. About literature, code and stuff. 
-<br/>
 [Estudios coreanos](https://literaturacoreana.wordpress.com/)
 <br/>
 [Rainvare](https://rainvare.wordpress.com/)
 </p>
-<br/>
 - I will speak English, Portuguese, French, Italian, some German. And a little Arabic, Chinese and Korean
 
 ### ☕ Get in touch
-[![Website](https://rainvare.github.io/portfolio/)
-[![Linkedin](https://www.linkedin.com/in/indiravalentinarequiz/)
-[![Twitter](https://twitter.com/rainvare)
-[![Instagram](https://instagram.com/indirarequiz)
-[![Gmail](mailto:indirarequiz@gmail.com)
+[Website](https://rainvare.github.io/portfolio/)
+[Linkedin](https://www.linkedin.com/in/indiravalentinarequiz/)
+[Twitter](https://twitter.com/rainvare)
+[Instagram](https://instagram.com/indirarequiz)
+[Gmail](mailto:indirarequiz@gmail.com)
