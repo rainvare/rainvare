@@ -1,6 +1,4 @@
 ### Hi there 👋 
-Welcome to my Github page!  
-
 ### This is R. Indira Valentina Réquiz!
 Welcome to my Github page!  
 <br/>
