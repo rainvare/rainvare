@@ -13,7 +13,7 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 - Big Data training program Codo a Codo, Buenos Aires. * Progress 25 % *
 - AI & Machine Learning  * Progress 50% *
 
-### 💻 What am currently working on
+### 💻 What I am currently working on
 - Digitization project for Venezuelan culture  -  🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
