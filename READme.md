@@ -8,7 +8,7 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 
 <img align="right" alt="img" src="https://github.com/rainvare/CTDDigitalHouse/blob/main/img/perfil.png" width="40%" height="auto" />
 
-### 📖 What am currently learning
+### 📖 What I am currently learning
 - The Certified Tech Developer career at Digital House with a scholarship from Mercado Libre and Globant * Progress 30% *
 - Big Data training program Codo a Codo, Buenos Aires. * Progress 25 % *
 - AI & Machine Learning  * Progress 50% *
