@@ -24,7 +24,6 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=rainvare&show_icons=true&hide_border=true" />
 
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
