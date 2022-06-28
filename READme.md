@@ -8,7 +8,7 @@ I am a junior developer, a linguist, a specialist in literature and Korean Studi
 
 ### 📖 What I am currently learning
 - The Certified Tech Developer career at Digital House with a scholarship from Mercado Libre and Globant * Progress 45% *
-- Big Data training program Codo a Codo, Buenos Aires. * Progress 60 % *
+- Big Data training program Codo a Codo, Buenos Aires. * Progress 90 % *
 - AI & Machine Learning  * Progress 50% *
 
 ### 💻 What I am currently working on
