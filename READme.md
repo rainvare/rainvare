@@ -3,13 +3,12 @@
 Welcome to my Github page!  
 <br/>
 ## 🧐 About me
-I am a junior developer, a linguist, a specialist in literature and Korean Studies.
+I am a Certified Tech Developer, a linguist, a specialist in literature and Korean Studies.
 <br/>
 
 ### 📖 What I am currently learning
-- The Certified Tech Developer career at Digital House with a scholarship from Mercado Libre and Globant * Progress 50% *
-- Python training program Codo a Codo, Buenos Aires. * Progress 30 % *
-- AI & Machine Learning  * Progress 55% *
+- Python training * Progress 50 % *
+- AI & Machine Learning  * Progress 35% *
 
 ### 💻 What I am currently working on
 - Digitization project for Venezuelan culture  -  🚀 *coming soon*
