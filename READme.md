@@ -7,8 +7,7 @@ I am a Certified Tech Developer, a linguist, a specialist in literature and Kore
 <br/>
 
 ### 📖 What I am currently learning
-- Python training * Progress 50 % *
-- AI & Machine Learning  * Progress 35% *
+- AI & Machine Learning  * Progress 75% *
 
 ### 💻 What I am currently working on
 - Digitization project for Venezuelan culture  -  🚀 *coming soon*
