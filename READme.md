@@ -1,49 +1,65 @@
-### Hi there 👋 
-### This is R. Indira Valentina Réquiz!
-Welcome to my Github page!  
-<br/>
-## 🧐 About me
-I am a Certified Tech Developer, a linguist, a specialist in literature and Korean Studies.
-<br/>
+# R. Indira Valentina Réquiz
 
-### 📖 What I am currently learning
-- AI & Machine Learning  * Progress 75% *
+**Data & Analytics Manager · AI Lead · Digital Transformation Consultant**  
+Buenos Aires, Argentina · Open to remote opportunities
 
-### 💻 What I am currently working on
-- Digitization project for Venezuelan culture  -  🚀 *coming soon*
+---
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding 8 hours a day
-- Exercising 3 days a week
+## About
 
+I build data infrastructure and analytical systems that organizations actually use to make decisions.
 
-#### :computer: Programming languages and tools: 
-<p>
+6+ years of international experience across the US, Mexico, Argentina, and China — leading data teams, designing data warehouses from scratch, coordinating AI/ML pipelines, and bridging the gap between technical execution and strategic impact.
 
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></code>
-<br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.soutechventures.com/wp-content/uploads/2018/07/ibm-spss-training-in-abuja-lagos-nigeria.png"></code>
-</p>
+My background is unusual: I started as a linguist and literature researcher, moved into software development, and found my zone in data architecture and applied AI. That combination gives me something most data professionals don't have — the ability to model complex systems *and* communicate them clearly across technical and non-technical audiences.
 
-### 🌴 Fun facts
-- I blog. About literature, code and stuff
-⭐️[Estudios coreanos](https://literaturacoreana.wordpress.com/)
-⭐️[Rainvare](https://rainvare.wordpress.com/)
-- I speak English, Portuguese, French, Italian, some German. And a little Arabic, Chinese and Korean.
-- I love knitting
+---
 
-### ☕ Get in touch
-- ⭐️[Website](https://rainvare.github.io/portfolio/)
-- 📝[Linkedin](https://www.linkedin.com/in/indiravalentinarequiz/)
-- 💬[Twitter](https://twitter.com/rainvare)
-- ⚡[Instagram](https://instagram.com/indirarequiz)
-- 📫[Gmail](mailto:indirarequiz@gmail.com)
+## What I work with
+
+**Data & Analytics**  
+Python · R · SQL · Power BI · Looker Studio · SPSS
+
+**Data Engineering**  
+SQLAlchemy · Alembic · Pydantic · ETL design · Data Warehouse architecture · Alchemer
+
+**AI & Machine Learning**  
+TensorFlow · PyTorch · Scikit-learn · Keras · Databricks · Azure ML
+
+**Development & Infrastructure**  
+PostgreSQL · MongoDB · Docker · AWS · Azure · Git · Streamlit · Shiny
+
+**Methods**  
+Scrum · Kanban · Agile · Technical team leadership
+
+---
+
+## Selected work
+
+| Project | Description | Stack |
+|---|---|---|
+| [PDF to Text Tool](https://pdftotxt-rainvare.streamlit.app/) | Document processing app | Python · Streamlit |
+| [ER120 Resizer](https://z0qrw8-indira-requiz.shinyapps.io/er120-resizer/) | Data resizing tool | R · Shiny |
+| [ITC Project](https://rainvare.github.io/ITC/) | Web interface | HTML · CSS · JS |
+| [Baringongju](https://rainvare.itch.io/baringongju) | Interactive narrative game | — |
+
+---
+
+## Research & Publications
+
+- *Korean Literature* — Hernández Cueto, Réquiz, Hernández. Editorial UAN, 2024.
+- *Korean Migration to Venezuela: K-move* — Cuadernos de Corea, 2022.
+- *Devouring the Hallyu* — Revista Mundo Asia Pacífico, Vol. 8 No. 14, 2019.
+- *Traces of the Korean War in Latin American Literature* — IDICSO, 2021.
+
+---
+
+## Languages
+
+Spanish (native) · English (B2–C1) · Portuguese (C1) · French (B2) · Italian (B2) · German (B2) · Korean (TOPIK 2) · Mandarin (HSK 1)
+
+---
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/indiravalentinarequiz/) · [Portfolio](https://rainvare.github.io/portfolio/) · [indirarequiz@gmail.com](mailto:indirarequiz@gmail.com)
