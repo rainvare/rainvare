@@ -41,10 +41,13 @@ Scrum · Kanban · Agile · Technical team leadership
 | Project | Description | Stack |
 |---|---|---|
 | [Retail Data Warehouse](https://github.com/rainvare/retail-data-warehouse) | End-to-end ETL pipeline, star schema dimensional model and KPI queries for a retail business | Python · SQL · SQLite |
+| [Banco Meridian](https://github.com/rainvare/banco-meridian) | Multi-source banking data integration pipeline with fraud detection and multi-currency normalization across 3 countries | Python · SQL · SQLite |
 | [PDF to Text Tool](https://pdftotxt-rainvare.streamlit.app/) | Document processing app | Python · Streamlit |
 | [ER120 Resizer](https://z0qrw8-indira-requiz.shinyapps.io/er120-resizer/) | Data resizing tool | R · Shiny |
 | [ITC Project](https://rainvare.github.io/ITC/) | Web interface | HTML · CSS · JS |
 | [Baringongju](https://rainvare.itch.io/baringongju) | Interactive narrative game | — |
+
+
 ---
 
 ## Research & Publications
