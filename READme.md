@@ -40,7 +40,6 @@ Scrum · Kanban · Agile · Technical team leadership
 
 | Project | Description | Stack |
 |---|---|---|
-
 | [Organizational Knowledge Harness](https://github.com/rainvare/organizational-knowledge-harness) | Knowledge graph platform for organizational context. NM_graph stability metric, Git-native versioning, multi-agent architecture | Python · Streamlit · NetworkX · Gemini API |
 | [LOF — Learning Optimization Framework](https://github.com/rainvare/LOF) | Open protocol that builds a cognitive profile from how you interact and adapts how it teaches accordingly. 5 dimensions grounded in Paivio, Kolb, Bruner, Zimmerman | Claude API · Prompt Engineering · Cognitive Science |
 | [Agentic Governance Framework](https://github.com/rainvare/agentic-governance-framework) | Framework for governing AI agents in enterprise contexts. Core thesis: infrastructure is the bottleneck, not model capability | Python · LangGraph · AI Governance |
