@@ -40,6 +40,14 @@ Scrum · Kanban · Agile · Technical team leadership
 
 | Project | Description | Stack |
 |---|---|---|
+
+| [Organizational Knowledge Harness](https://github.com/rainvare/organizational-knowledge-harness) | Knowledge graph platform for organizational context. NM_graph stability metric, Git-native versioning, multi-agent architecture | Python · Streamlit · NetworkX · Gemini API |
+| [LOF — Learning Optimization Framework](https://github.com/rainvare/LOF) | Open protocol that builds a cognitive profile from how you interact and adapts how it teaches accordingly. 5 dimensions grounded in Paivio, Kolb, Bruner, Zimmerman | Claude API · Prompt Engineering · Cognitive Science |
+| [Agentic Governance Framework](https://github.com/rainvare/agentic-governance-framework) | Framework for governing AI agents in enterprise contexts. Core thesis: infrastructure is the bottleneck, not model capability | Python · LangGraph · AI Governance |
+| [Seldon Corporate](https://github.com/rainvare/seldon-corporate) | Organizational resilience model inspired by psychohistory. Q(t) metric validated on 40 cases, predicts rupture 1–6 years ahead of financial indicators | Python · pandas · scikit-learn |
+| [Libros sobre China en España](https://libros-china-dashboard-rainvare.streamlit.app/) | Interactive dashboard of 736 Chinese→Spanish translations published in Spain (1592–2021) | Python · Streamlit · Plotly |
+| [automate-kit](https://github.com/rainvare/automate-kit) | 12 automation scripts across data, APIs, DevOps, AI and admin agents | Python · Claude API · Gmail API |
+| [E-Commerce Intelligence Pipeline](https://github.com/rainvare/Ecommerce-colab) | Multimodal product classification with zero-shot CLIP + multilingual NLP + SQLite DW | PyTorch · CLIP · HuggingFace |
 | [Retail Data Warehouse](https://github.com/rainvare/retail-data-warehouse) | End-to-end ETL pipeline, star schema dimensional model and KPI queries for a retail business | Python · SQL · SQLite |
 | [Banco Meridian](https://github.com/rainvare/banco-meridian) | Multi-source banking data integration pipeline with fraud detection and multi-currency normalization across 3 countries | Python · SQL · SQLite |
 | [PDF to Text Tool](https://pdftotxt-rainvare.streamlit.app/) | Document processing app | Python · Streamlit |
